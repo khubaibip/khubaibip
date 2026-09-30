@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khubaib Illiyyin Putra</h1>
 <h3 align="center">A passionate junior developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **100 Days of Code™: The Complete Python Pro Bootcamp, Java Programming, Python, Cyber Security, etc.**
+- 🌱 I’m currently learning **100 Days of Code™: The Complete Python Pro Bootcamp, Java Programming, Cyber Security, Web Development, etc.**
 
 - 📫 How to reach me **khubaibiputra@gmail.com**
 
